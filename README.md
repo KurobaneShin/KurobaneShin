@@ -2,7 +2,6 @@
 
 - Call me Icaro
 - I'm currently a **Software Engineer**
-- Pronouns: He/Him
 - How to reach me:
 </br>
 
